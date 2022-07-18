@@ -1,2 +1,2 @@
 # Handwritten-Digit-Classification
-Handwritten Digit Classification using Neural Network Algorithm 
+Handwritten Digit Classification using PCA Algorithm 
